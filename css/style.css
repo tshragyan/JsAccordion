@@ -1,0 +1,27 @@
+.accordionContainer {
+    height: auto;
+    width: 40%;
+    margin-left: 30%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.accordion {
+    height: 90%;
+    margin-left: 5%;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border: 1px solid;
+}
+
+.header {
+    border-bottom: 1px solid;
+    padding: 2px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.body {
+    padding: 2px;
+    display: none;
+}
